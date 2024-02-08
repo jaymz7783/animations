@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Notes
+
+This repo has some demo code for animations using Javascript, Vue, CSS, as well as from a library called Animate.css
